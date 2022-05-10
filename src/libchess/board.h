@@ -17,4 +17,3 @@ void print_board(char board[size][size]);
 void take_step(string step, motion& motion);
 
 int turn(string step, motion motion, char print_board[size][size]);
-
