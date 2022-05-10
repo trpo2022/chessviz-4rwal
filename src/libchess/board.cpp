@@ -20,8 +20,8 @@ void print_board(char board[size][size])
 
 int count_step(string step, int x, char y)
 {
-    int switch = (int)step[x] - y;
-    return switch;
+    int diff = (int)step[x] - y;
+    return diff;
 }
 
 void take_step(string step, motion& motion)
