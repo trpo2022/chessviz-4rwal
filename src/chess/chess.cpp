@@ -1,6 +1,6 @@
 #include <iostream>
-#include <string>
 #include <libchess/board.h>
+#include <string>
 
 using namespace std;
 
