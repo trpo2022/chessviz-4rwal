@@ -1,0 +1,6 @@
+*.o
+*.a
+*.d
+bin/chess
+.DS_Store
+main
